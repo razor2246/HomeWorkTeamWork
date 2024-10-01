@@ -1,1 +1,3 @@
-tmp\
+tmp/
+img/.DS_Store
+*_old
