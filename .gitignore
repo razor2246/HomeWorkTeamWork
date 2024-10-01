@@ -1,3 +1,5 @@
 tmp/
-img/.DS_Store
+*.DS_Store
+*Thumbs.db
 *_old
+*_backup
